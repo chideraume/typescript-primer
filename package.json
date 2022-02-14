@@ -1,0 +1,23 @@
+{
+  "name": "typescript-primer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chideraume/typescript-primer.git"
+  },
+  "author": "chidera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chideraume/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/chideraume/typescript-primer#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "typescript": "*"
+  },
+  "description": ""
+}
